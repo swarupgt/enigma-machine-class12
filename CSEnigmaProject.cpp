@@ -1,4 +1,4 @@
-//Computer Science Investigatory Project by Swarup Totloor, Aditi S, and Utpal Balse.
+//Computer Science Investigatory Project by Swarup Totloor, Aditi Shanmugam, and Utpal Balse.
 
 //The Enigma Machine.
 
